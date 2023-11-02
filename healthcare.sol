@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.8.2 <0.9.0;
+pragma solidity >=0.8.20;
 
 
-contract details{
+contract detailPatient{
 
     
     struct Patient {
